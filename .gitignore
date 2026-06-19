@@ -9,7 +9,7 @@ build/
 out/
 .next/
 .nuxt/
-.output/
+.output
 
 # Environment variables
 .env
