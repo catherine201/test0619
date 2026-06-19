@@ -1,6 +1,6 @@
 # Dependencies
 node_modules/
-.pnp
+.pn
 .pnp.js
 
 # Build outputs
